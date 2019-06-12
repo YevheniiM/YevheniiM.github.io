@@ -26,11 +26,11 @@
     border: none;
     cursor: pointer;
     background-size: 23px 23px;
-    background-image: url("../../../sources/_0_percentage/burger_disabled.png");
+    background-image: url("../../../Sources/_0_percentage/burger_disabled.png");
 }
 
 #navigation_open:hover{
-    background-image: url("../../../sources/_0_percentage/burger_enabled.png");
+    background-image: url("../../../Sources/_0_percentage/burger_enabled.png");
 }
 
 .navigation__person-icon{
@@ -114,7 +114,7 @@
     height: 1.0rem;
     border: none;
     cursor: pointer;
-    background-image: url("../../../sources/_0_percentage/person-icon.png");
+    background-image: url("../../../Sources/_0_percentage/person-icon.png");
     background-size: 1.0rem 1.0rem;
     padding-top: 11px;
 }

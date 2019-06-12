@@ -105,15 +105,15 @@
 }
 
 .social-media_inst {
-  background-image: url("../../../sources/_0_percentage/icon_instagram.svg");
+  background-image: url("../../../Sources/_0_percentage/icon_instagram.svg");
 }
 
 .social-media_face {
-  background-image: url("../../../sources/_0_percentage/icon_facebook.svg");
+  background-image: url("../../../Sources/_0_percentage/icon_facebook.svg");
 }
 
 .social-media_twit {
-  background-image: url("../../../sources/_0_percentage/icon_twitter.svg");
+  background-image: url("../../../Sources/_0_percentage/icon_twitter.svg");
 }
 
 .market {
@@ -130,11 +130,11 @@
 
 .market_apple {
   margin-top: 2rem;
-  background-image: url("../../../sources/_0_percentage/appstore.svg");
+  background-image: url("../../../Sources/_0_percentage/appstore.svg");
 }
 
 .market_vedro {
-  background-image: url("../../../sources/_0_percentage/googlepay.svg");
+  background-image: url("../../../Sources/_0_percentage/googlepay.svg");
 }
 
 .button-footer {
